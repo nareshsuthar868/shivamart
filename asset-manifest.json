@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/shivamart/static/css/main.040834e3.chunk.css",
+    "main.js": "/shivamart/static/js/main.fc12633b.chunk.js",
+    "main.js.map": "/shivamart/static/js/main.fc12633b.chunk.js.map",
+    "runtime-main.js": "/shivamart/static/js/runtime-main.168e999b.js",
+    "runtime-main.js.map": "/shivamart/static/js/runtime-main.168e999b.js.map",
+    "static/css/2.d9d5b7f4.chunk.css": "/shivamart/static/css/2.d9d5b7f4.chunk.css",
+    "static/js/2.0a4dae2f.chunk.js": "/shivamart/static/js/2.0a4dae2f.chunk.js",
+    "static/js/2.0a4dae2f.chunk.js.map": "/shivamart/static/js/2.0a4dae2f.chunk.js.map",
+    "static/js/3.022be789.chunk.js": "/shivamart/static/js/3.022be789.chunk.js",
+    "static/js/3.022be789.chunk.js.map": "/shivamart/static/js/3.022be789.chunk.js.map",
+    "index.html": "/shivamart/index.html",
+    "static/css/2.d9d5b7f4.chunk.css.map": "/shivamart/static/css/2.d9d5b7f4.chunk.css.map",
+    "static/css/main.040834e3.chunk.css.map": "/shivamart/static/css/main.040834e3.chunk.css.map",
+    "static/js/2.0a4dae2f.chunk.js.LICENSE.txt": "/shivamart/static/js/2.0a4dae2f.chunk.js.LICENSE.txt",
+    "static/media/logo01.f0f3765f.svg": "/shivamart/static/media/logo01.f0f3765f.svg",
+    "static/media/logo02.ef3dc476.svg": "/shivamart/static/media/logo02.ef3dc476.svg",
+    "static/media/logo03.ed39a486.svg": "/shivamart/static/media/logo03.ed39a486.svg",
+    "static/media/logo04.d4601325.svg": "/shivamart/static/media/logo04.d4601325.svg",
+    "static/media/logo05.e583f97d.svg": "/shivamart/static/media/logo05.e583f97d.svg",
+    "static/media/logo06.7fcfefca.svg": "/shivamart/static/media/logo06.7fcfefca.svg",
+    "static/media/slick-theme.css": "/shivamart/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.168e999b.js",
+    "static/css/2.d9d5b7f4.chunk.css",
+    "static/js/2.0a4dae2f.chunk.js",
+    "static/css/main.040834e3.chunk.css",
+    "static/js/main.fc12633b.chunk.js"
+  ]
+}
