@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 // Assets
-import ContactImg1 from '../../assets/img/contact-1.png';
-import ContactImg2 from '../../assets/img/contact-2.png';
 import ContactImg3 from '../../assets/img/contact-3.png';
 
 export default function Contact() {
@@ -11,14 +9,16 @@ export default function Contact() {
       <div className="lightBg">
         <div className="container">
           <HeaderInfo>
-            <h1 className="font40 extraBold">Start Your Carving Journey with Us</h1>
+            <h1 className="font40 extraBold">
+              Start Your Carving Journey with Us
+            </h1>
             <p className="font13">
-              At Shivam Art, we specialize in creating exquisite, carving
-              works that transform spaces and objects into timeless
-              masterpieces. Whether you are looking to add intricate designs to
-              architectural structures, create personalized sculptures, or craft
-              detailed carvings for any other purpose, we are here to bring your
-              vision to life.
+              At Shivam Art, we specialize in creating exquisite, carving works
+              that transform spaces and objects into timeless masterpieces.
+              Whether you are looking to add intricate designs to architectural
+              structures, create personalized sculptures, or craft detailed
+              carvings for any other purpose, we are here to bring your vision
+              to life.
             </p>
           </HeaderInfo>
           <div className="row" style={{ paddingBottom: '30px' }}>
@@ -64,7 +64,25 @@ export default function Contact() {
                 />
               </SumbitWrapper>
             </div>
-            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 flex">
+            <div
+              className="col-xs-12 col-sm-12 col-md-6 col-lg-6 flex align-center"
+              style={{ flexWrap: 'wrap' }}
+            >
+              <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <img src={ContactImg3} alt="office" className="radius6" />
+              </div>
+              <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+                <img src={ContactImg3} alt="office" className="radius6" />
+              </div>
+              <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+                <img src={ContactImg3} alt="office" className="radius6" />
+              </div>
+              <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <img src={ContactImg3} alt="office" className="radius6" />
+              </div>
+            </div>
+
+            {/* <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 flex">
               <div
                 style={{ width: '50%' }}
                 className="flexNullCenter flexColumn"
@@ -81,7 +99,7 @@ export default function Contact() {
                   <img src={ContactImg3} alt="office" className="radius6" />
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
